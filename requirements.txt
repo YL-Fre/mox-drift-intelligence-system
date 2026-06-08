@@ -1,0 +1,17 @@
+# ============================================================
+# MOx Drift Prediction — Python Dependencies
+# Python 3.10+
+# ============================================================
+
+# Core scientific stack
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+
+# Visualization
+matplotlib>=3.7,<4.0
+
+# Deep learning (LSTM training)
+torch>=2.0
+
+# Jupyter (optional — for interactive exploration)
+jupyter>=1.0
